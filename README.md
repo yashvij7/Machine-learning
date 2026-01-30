@@ -1,3 +1,3 @@
-Machine Learning Practicals
-Author - Yashvi Jasani
-Guide - Dr. Jay Vala
+Machine Learning Practicals <br>
+Author - Yashvi Jasani <br>
+Guide - Dr. Jay Vala 
