@@ -1,0 +1,9 @@
+StudentID,Gender,Department,StudyHours,Attendance,Score
+1,Male,Computer,5,80,78
+2,Female,Mechanical,6,75,82
+3,Female,Computer,4,,75
+4,Male,Civil,7,85,88
+5,Female,Electrical,3,70,
+6,Male,Computer,8,90,92
+7,Female,Civil,,65,68
+8,Male,Mechanical,6,78,80
